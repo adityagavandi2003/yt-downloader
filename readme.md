@@ -58,13 +58,13 @@ Follow these steps to clone and set up the project:
 Here are some screenshots showcasing the functionality of the YouTube Video Downloader:
 
 ### 🏠 Home Screen  
-![Home Screen](images/home_screen.png)
+![Screenshot 2025-04-03 125845](https://github.com/user-attachments/assets/4e08126b-8343-40b4-9945-8f94406e8e9c)
 
 ### 🎯 Video Download Options  
-![Download Options](images/download_options.png)
+![Screenshot 2025-04-03 130002](https://github.com/user-attachments/assets/71b31887-b72c-4713-9b63-4133ea9427ec)
 
 ### 📜 Playlist Download  
-![Playlist Download](images/playlist_download.png)
+![Screenshot 2025-04-03 125845](https://github.com/user-attachments/assets/514972c1-ef68-4cec-af4a-21076930e61a)
 
 Make sure to check out these features in action! 🎉
 
